@@ -1,0 +1,46 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+.container {
+  position: relative;
+}
+
+.arrow_1 {
+  position: absolute;
+  top: 20px;
+  left: 335px;
+  animation: anime1 900ms infinite 10ms alternate
+}
+
+.arrow_2 {
+  position: absolute;
+  top: 20px;
+  left: 570px;
+  animation: anime1 900ms infinite 10ms alternate
+}
+
+.arrow_3 {
+  position: absolute;
+  top: 20px;
+  left: 808px;
+  animation: anime1 900ms infinite 10ms alternate
+}
+
+.arrow_4 {
+  position: absolute;
+  top: 20px;
+  left: 1047px;
+  animation: anime1 900ms infinite 10ms alternate
+}
+
+@keyframes anime1 {
+  0% {
+    top: 10px;
+  }
+  100% {
+    top: 20px;
+  }
+}
