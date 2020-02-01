@@ -36,21 +36,21 @@ html, body {
 .arrow_2 {
   position: absolute;
   top: 20px;
-  left: 480px;
+  left: 465px;
   animation: anime1 900ms infinite 10ms alternate
 }
 
 .arrow_3 {
   position: absolute;
   top: 20px;
-  left: 700px;
+  left: 670px;
   animation: anime1 900ms infinite 10ms alternate
 }
 
 .arrow_4 {
   position: absolute;
   top: 20px;
-  left: 910px;
+  left: 870px;
   animation: anime1 900ms infinite 10ms alternate
 }
 
