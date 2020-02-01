@@ -2,42 +2,55 @@ html, body {
   height: 100%;
   width: 100%;
   margin: 0;
-  background-color: #FF9933;
 }
 
 .container {
   position: relative;
+  background-image: url('./bgs.png');
+  background-size: contain;
+  height: 100%;
+  text-align: center;
 }
 
-.bg {
+.title {
+  margin: 160px auto 0;
+}
+
+.head {
+  margin: 40px auto 0;
+  width: calc(90%);
+}
+
+.logo {
   margin-top: 80px;
+  width: 320px;
 }
 
 .arrow_1 {
   position: absolute;
   top: 20px;
-  left: 310px;
+  left: 300px;
   animation: anime1 900ms infinite 10ms alternate
 }
 
 .arrow_2 {
   position: absolute;
   top: 20px;
-  left: 530px;
+  left: 520px;
   animation: anime1 900ms infinite 10ms alternate
 }
 
 .arrow_3 {
   position: absolute;
   top: 20px;
-  left: 750px;
+  left: 740px;
   animation: anime1 900ms infinite 10ms alternate
 }
 
 .arrow_4 {
   position: absolute;
   top: 20px;
-  left: 960px;
+  left: 950px;
   animation: anime1 900ms infinite 10ms alternate
 }
 
