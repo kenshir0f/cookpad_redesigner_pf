@@ -29,28 +29,28 @@ html, body {
 .arrow_1 {
   position: absolute;
   top: 20px;
-  left: 300px;
+  left: 260px;
   animation: anime1 900ms infinite 10ms alternate
 }
 
 .arrow_2 {
   position: absolute;
   top: 20px;
-  left: 520px;
+  left: 480px;
   animation: anime1 900ms infinite 10ms alternate
 }
 
 .arrow_3 {
   position: absolute;
   top: 20px;
-  left: 740px;
+  left: 700px;
   animation: anime1 900ms infinite 10ms alternate
 }
 
 .arrow_4 {
   position: absolute;
   top: 20px;
-  left: 950px;
+  left: 910px;
   animation: anime1 900ms infinite 10ms alternate
 }
 
