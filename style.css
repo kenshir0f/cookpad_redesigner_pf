@@ -2,37 +2,42 @@ html, body {
   height: 100%;
   width: 100%;
   margin: 0;
+  background-color: #FF9933;
 }
 
 .container {
   position: relative;
 }
 
+.bg {
+  margin-top: 80px;
+}
+
 .arrow_1 {
   position: absolute;
   top: 20px;
-  left: 335px;
+  left: 310px;
   animation: anime1 900ms infinite 10ms alternate
 }
 
 .arrow_2 {
   position: absolute;
   top: 20px;
-  left: 570px;
+  left: 530px;
   animation: anime1 900ms infinite 10ms alternate
 }
 
 .arrow_3 {
   position: absolute;
   top: 20px;
-  left: 808px;
+  left: 750px;
   animation: anime1 900ms infinite 10ms alternate
 }
 
 .arrow_4 {
   position: absolute;
   top: 20px;
-  left: 1047px;
+  left: 960px;
   animation: anime1 900ms infinite 10ms alternate
 }
 
